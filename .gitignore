@@ -1,1 +1,10 @@
 *.pyc
+
+MANIFEST
+build
+dist
+
+# pydev settings
+.settings
+.pydevproject
+.project
